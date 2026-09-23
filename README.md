@@ -1,0 +1,1 @@
+This is a basic website I made in a minute using the agent in VS Code. This was a quick exercise in verifying that all is in order and being able to know where to make edits after the agent did the heavy lifting.
